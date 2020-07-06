@@ -1,0 +1,1 @@
+studying a little typescript
